@@ -101,4 +101,6 @@ def yas_hesapla():
 
 
 print(f"Siz {yas_hesapla()} yaşındasınız.")
+#yapay zekadan yardım aldım.
+#week 7.py güncellendi.
 
