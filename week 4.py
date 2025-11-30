@@ -51,4 +51,5 @@ search_input = ""
         else:
             [cite_start]print("not found") 
             
-#yapay zekadan yarsım aldım.
+#yapay zekadan yardım aldım.
+#week 4.py güncellendi.
