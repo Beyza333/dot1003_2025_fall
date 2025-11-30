@@ -85,6 +85,8 @@ while user_input.lower() != "exit":
 
 print(game_list)
 print(anarya(game_list))
+#yapay zekadan yardım aldım.
+#week 5.py güncellendi.
 
 
 
