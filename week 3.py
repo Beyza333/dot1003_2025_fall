@@ -40,6 +40,8 @@ print("Name:", isim)
 print("Victim:", hedef)
 print("Thank you,", isim + "!")
 print("But our", hedef, "is in another castle")
+#yapay zekadan yardım aldım.
+#week 3.py güncellendi.
 
 
 
