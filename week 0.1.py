@@ -83,4 +83,5 @@ game_age = current_year - release_year
 print(f"\n{game_name} is {game_age} years old.")
 
 
-#yapay zekadan yardım.
+#yapay zekadan yardım aldım.
+#week 0.1.py güncellendi.
